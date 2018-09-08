@@ -262,8 +262,8 @@ not straightforward.
 
 ### Issue
 
- We try to prompt our users for the basic information We always need for new issues.
- Please fill out the issue template below and submit it to our discord channel
+ We try to prompt our users for the basic information we always need for new issues.
+ Please fill out the issue template below and submit it to our discord channel.
   <a href="https://discord.gg/27xFP5Y"><img src="https://discordapp.com/api/guilds/364500397999652866/embed.png" alt="Discord server" /></a>
  
  [ISSUE_TEMPLATE](doc/template/ISSUE_TEMPLATE_example.md)
